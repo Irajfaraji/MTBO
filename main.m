@@ -7,6 +7,7 @@
 % Mathematics (2021)  ISSN: 2227-7390 ,
 % https://doi.org/.
 % e-mail : faraji.iraj@gmail.com
+% https://doi.org/10.3390/math11051273
 %--------------------------------------------------------------------------
 
 
