@@ -6,4 +6,8 @@ A new optimization algorithm is introduced in the field of evolutionary computat
 
 
 
-Iman Faridmehr, Moncef L. Nehdi, Iraj Faraji Davoudkhani, Alireza Poolad, "Mountaineering Team-Based Optimization: A Novel Human-based Metaheuristic Algorithm",Mathematics,2023
+
+
+Faridmehr, Iman, Moncef L. Nehdi, Iraj Faraji Davoudkhani, and Alireza Poolad. 2023. "Mountaineering Team-Based Optimization: A Novel Human-Based Metaheuristic Algorithm" Mathematics 11, no. 5: 1273.
+
+ https://doi.org/10.3390/math11051273 
